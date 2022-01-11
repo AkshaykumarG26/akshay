@@ -23,11 +23,11 @@ const Footer = () => {
       <SectionTitle id='contact'>Contact Me</SectionTitle>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
+          <LinkTitle>📱 Call</LinkTitle>
           <LinkItem href="tel:+91-7841915179">+91-7841915179</LinkItem>
         </LinkColumn>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
+          <LinkTitle>✉️ Email</LinkTitle>
           <LinkItem href="mailto:akshayg2697@gmail.com">
             akshayg2697@gmail.com
           </LinkItem>

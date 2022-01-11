@@ -12,10 +12,6 @@ const Timeline = () => {
     return node.scrollTo({ left, behavior: 'smooth' });
   }
 
-
-
-
-
   useEffect(() => {
     const handleResize = () => {
       scroll(carouselRef.current, 0);
