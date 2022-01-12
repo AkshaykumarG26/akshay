@@ -361,8 +361,8 @@ const BackgroundAnimation = () => (
     </svg>
     <div
       style={{
-        display: "grid",
-        // flexDirection: "column",
+        display: "fles",
+        flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
         width: 250,
@@ -376,7 +376,7 @@ const BackgroundAnimation = () => (
         src="./images/myPic.jpeg"
         alt="Akshaykumar Profile Pic"
         style={{
-          display: "grid",
+          display: "flex",
           height: "100%",
           width: "100%",
           borderRadius: "50%",
