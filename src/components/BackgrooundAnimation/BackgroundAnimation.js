@@ -367,7 +367,7 @@ const BackgroundAnimation = () => (
         alignItems: "center",
         width: 250,
         height: 250,
-        position: "absolute",
+        position: "inherit",
         top: 100,
         left: 150,
       }}
@@ -376,7 +376,6 @@ const BackgroundAnimation = () => (
         src="./images/myPic.jpeg"
         alt="Akshaykumar Profile Pic"
         style={{
-          minWidth: "375px",
           display: "grid",
           height: "100%",
           width: "100%",
