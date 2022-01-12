@@ -16,7 +16,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["NodeJS", "ExpressJS", "MongoDB"],
     source: "https://github.com/taherahmed14/Groww_Full-Stack_Project",
-    visit: "#",
+    visit: "https://groww-project.herokuapp.com/home",
     id: 1,
   },
 ];
