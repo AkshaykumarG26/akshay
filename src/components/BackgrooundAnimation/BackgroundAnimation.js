@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const BackgroundAnimation = () => (
   <div style={{ position: "relative" }}>
@@ -359,18 +359,29 @@ const BackgroundAnimation = () => (
         </linearGradient>
       </defs>
     </svg>
-    <div style={{
-      display: "flex",
-      flexDirection: "column",
-      justifyContent: "center",
-      alignItems: "center",
-      width: 250,
-      height: 250,
-      position: "absolute",
-      top: 100,
-      left: 150
-    }}>
-      <img src='./images/myPic.jpeg' alt="vani" style={{ display: "flex", height: "100%", width: "100%", borderRadius: "50%" }} />
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        alignItems: "center",
+        width: 250,
+        height: 250,
+        position: "absolute",
+        top: 100,
+        left: 150,
+      }}
+    >
+      <img
+        src="./images/myPic.jpeg"
+        alt="Akshaykumar Profile Pic"
+        style={{
+          display: "flex",
+          height: "100%",
+          width: "100%",
+          borderRadius: "50%",
+        }}
+      />
     </div>
   </div>
 );

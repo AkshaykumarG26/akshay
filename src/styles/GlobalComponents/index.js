@@ -111,6 +111,12 @@ export const SectionSubText = styled.p`
     line-height: 25px;
   }
 
+  @media ${(props) => props.theme.breakpoints.md} {
+    max-width: 375px;
+    font-size: 12px;
+    line-height: 12px;
+  }
+
   @media ${(props) => props.theme.breakpoints.sm} {
     font-size: 14px;
     line-height: 22px;
