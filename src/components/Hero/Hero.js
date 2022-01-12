@@ -17,7 +17,7 @@ const Hero = (props) => (
       </SectionText>
       <WritingEffect />
 
-      <Button onClick={() => window.open('"https://drive.google.com/file/d/1HNLwzmzSVCGlKc1yBppxG1QFkfNNcp2c/view?usp=view"', '_blank')}>View My Resume</Button>
+      <Button onClick={() => window.open("https://drive.google.com/file/d/1HNLwzmzSVCGlKc1yBppxG1QFkfNNcp2c/view?usp=view", '_blank')}>View My Resume</Button>
     </LeftSection>
 
   </Section>

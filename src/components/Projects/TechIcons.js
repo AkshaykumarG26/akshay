@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiReact, DiFirebase,DiMongodb, DiCss3, DiJavascript, DiWindows, DiJava  } from 'react-icons/di';
+import { DiReact, DiFirebase,DiMongodb, DiCss3, Javascript, DiWindows, DiJava  } from 'react-icons/di';
 import {FaNode, FaNodeJs} from 'react-icons/fa'
 import {FcLinux} from 'react-icons/fc'
 import { SiRedux, SiJson, SiHtml5, SiVisualstudiocode, SiJavascript } from 'react-icons/si';
