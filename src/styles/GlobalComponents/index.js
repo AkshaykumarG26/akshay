@@ -15,7 +15,7 @@ export const Section = styled.section`
     display: flex;
     flex-direction: column;
     align-item: center;
-    position: inherit;  
+    position: initial;  
   }
 
   @media ${(props) => props.theme.breakpoints.md} {
