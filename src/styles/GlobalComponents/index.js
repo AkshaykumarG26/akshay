@@ -11,6 +11,11 @@ export const Section = styled.section`
   overflow: hidden;
   grid-template-columns: 1fr 1fr;
 
+  @media (max-width) {
+    display: flex;
+    flex-direction: column;
+  }
+
   @media ${(props) => props.theme.breakpoints.md} {
     padding: 24px 48px 0;
     flex-direction: column;
@@ -111,11 +116,6 @@ export const SectionSubText = styled.p`
     line-height: 25px;
   }
 
-  @media ${(props) => props.theme.breakpoints.md} {
-    max-width: 375px;
-    font-size: 12px;
-    line-height: 12px;
-  }
 
   @media ${(props) => props.theme.breakpoints.sm} {
     font-size: 14px;

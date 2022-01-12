@@ -380,7 +380,6 @@ const BackgroundAnimation = () => (
           height: "100%",
           width: "100%",
           borderRadius: "50%",
-          flexDirection: "column"
         }}
       />
     </div>
