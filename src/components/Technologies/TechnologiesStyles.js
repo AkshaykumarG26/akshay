@@ -177,7 +177,7 @@ export const SkillsBox = styled.div`
   justify-content:center;
   align-items: center;
   border: 1px solid white;
-  border-radius: 10px;
+  border-radius: 50%;
   margin-bottom: 25px;
   @media ${props => props.theme.breakpoints.lg}{
     width: 100px;
