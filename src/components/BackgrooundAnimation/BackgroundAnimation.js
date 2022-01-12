@@ -376,7 +376,7 @@ const BackgroundAnimation = () => (
         src="./images/myPic.jpeg"
         alt="Akshaykumar Profile Pic"
         style={{
-          display: "flex",
+          display: "grid",
           height: "100%",
           width: "100%",
           borderRadius: "50%",
