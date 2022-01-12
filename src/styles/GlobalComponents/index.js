@@ -20,7 +20,7 @@ export const Section = styled.section`
 
   @media (max-width: 750px) {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-item: center;
     position: initial;  
   }
