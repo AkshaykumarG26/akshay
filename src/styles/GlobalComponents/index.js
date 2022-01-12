@@ -15,6 +15,7 @@ export const Section = styled.section`
     display: flex;
     flex-direction: column;
     align-item: center;
+    position: absolute;  
   }
 
   @media ${(props) => props.theme.breakpoints.md} {
