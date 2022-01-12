@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Meadnear.com Clone",
     description:
-      "MedNear is the Primary Online Pharmacy in India provides prescription, medicines and generic medicines all over the India.",
+      "MedNear is the Primary Online Pharmacy in India provides prescription, medicines all over the India.",
     image: "/images/1.png",
     tags: ["HTML", "CSS", "Javascript"],
     source: "https://github.com/AkshaykumarG26/Unit_2_Construct_Week",
