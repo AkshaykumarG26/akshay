@@ -11,10 +11,6 @@ export const Section = styled.section`
   overflow: hidden;
   grid-template-columns: 1fr 1fr;
 
-  @media (max-width: 450px) {
-    display: flex;
-    flex-direction: column;
-  }
 
   @media ${(props) => props.theme.breakpoints.md} {
     padding: 24px 48px 0;
