@@ -171,8 +171,8 @@ export const SkillsContainer = styled.div`
 `;
 
 export const SkillsBox = styled.div`
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   display: flex;
   justify-content:center;
   align-items: center;
