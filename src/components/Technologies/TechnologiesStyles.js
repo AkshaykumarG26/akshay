@@ -187,10 +187,12 @@ export const SkillsBox = styled.div`
   @media ${props => props.theme.breakpoints.md}{
     width: 80px;
     height: 80px;
+    font-size: 10px;
   }
   
   @media ${props => props.theme.breakpoints.sm}{
     width: 60px;
   height: 60px;
+  font-size: 10px;
   }
 `;
