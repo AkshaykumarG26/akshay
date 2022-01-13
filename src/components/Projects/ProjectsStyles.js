@@ -106,7 +106,7 @@ transition: 0.5s;
 export const TagList = styled.ul`
 display: flex;
 justify-content: space-around;
-padding: 2rem;
+padding: 1rem;
 `
 export const Tag = styled.li`
 color: #d8bfbf;

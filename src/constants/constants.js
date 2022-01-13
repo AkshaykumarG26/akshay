@@ -1,8 +1,8 @@
 export const projects = [
   {
-    title: "Mednear.com Clone",
+    title: "Mednear.com",
     description:
-      "MedNear is the Primary Online Pharmacy in India provides prescription, medicines all over the India.",
+      "In this project we have done basic UI of mednear webpage using HTML, CSS and Javascript. User can add the products in the cart and can order the products.",
     image: "/images/1.png",
     tags: ["HTML", "CSS", "Javascript"],
     source: "https://github.com/AkshaykumarG26/Unit_2_Construct_Week",
@@ -10,9 +10,9 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Groww.in Clone",
+    title: "Groww.in",
     description:
-      "Groww is an online investment platform that allows investors to invest in mutual funds and stocks.",
+      "In this project we have created user interface of groww webpage and added backend. Here user is able to see all the stocks and buy them, sell them and delete the stocks from his cart.",
     image: "/images/2.png",
     tags: ["NodeJS", "ExpressJS", "MongoDB"],
     source: "https://github.com/taherahmed14/Groww_Full-Stack_Project",
