@@ -171,12 +171,12 @@ export const SkillsContainer = styled.div`
 `;
 
 export const SkillsBox = styled.div`
-  width: 120px;
-  height: 120px;
+  width: 130px;
+  height: 130px;
   display: flex;
   justify-content:center;
   align-items: center;
-  
+  border: 2px solid white;
   border-radius: 50%;
   margin-bottom: 25px;
   @media ${props => props.theme.breakpoints.lg}{
