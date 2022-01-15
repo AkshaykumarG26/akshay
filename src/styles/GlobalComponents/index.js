@@ -11,7 +11,7 @@ export const Section = styled.section`
   overflow: hidden;
   grid-template-columns: 1fr 1fr;
 
-  @media (max-width: 400px) {
+  @media (max-width: 375px) {
     display: flex;
     flex-direction: column;
     /* align-items: center; */
