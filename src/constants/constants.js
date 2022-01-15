@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Groww.in",
     description:
-      "In this project we have created user interface of groww webpage and added backend. Here user is able to see all the stocks and buy them, sell them and delete the stocks from his cart.",
+      "In this project we have created user interface of groww webpage and added backend. Here user is able to see all the stocks and buy them, sell them and delete the stocks from cart.",
     image: "/images/2.png",
     tags: ["NodeJS", "ExpressJS", "MongoDB"],
     source: "https://github.com/taherahmed14/Groww_Full-Stack_Project",
