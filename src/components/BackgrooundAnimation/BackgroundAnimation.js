@@ -367,7 +367,7 @@ const BackgroundAnimation = () => (
         alignItems: "center",
         width: 250,
         height: 250,
-        position: "relative",
+        position: "inherit",
         top: 100,
         left: 150,
       }}
