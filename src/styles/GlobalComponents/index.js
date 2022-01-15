@@ -14,7 +14,7 @@ export const Section = styled.section`
   @media (max-width: 375px) {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
     position: absolute;  
   }
 
