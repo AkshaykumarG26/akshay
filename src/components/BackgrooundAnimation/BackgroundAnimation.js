@@ -362,12 +362,12 @@ const BackgroundAnimation = () => (
     <div
       style={{
         display: "fles",
-        flexDirection: "row",
+        flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
         width: 250,
         height: 250,
-        position: "absolute",
+        position: "relative",
         top: 100,
         left: 150,
       }}
