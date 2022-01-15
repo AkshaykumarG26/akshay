@@ -1,5 +1,24 @@
 import React from "react";
 
+import styled from 'styled-components';
+
+const Img = styled.img`
+border: 4px solid white;
+display: flex;
+align-items: center;
+height: 100%;
+width: 100%;
+border-radius: 50%;
+@media(max-width:374px){
+  margin-bottom:50px;
+  margin-right:85px;
+}
+`
+
+
+
+
+
 const BackgroundAnimation = () => (
   <div style={{ position: "relative" }}>
     <svg
@@ -373,17 +392,17 @@ const BackgroundAnimation = () => (
       }}
     >
       
-        <img
+        <Img
           src="./images/myPic.jpeg"
           alt="Akshaykumar Profile Pic"
-          style={{
-            border: "4px solid white",
-            display: "flex",
-            height: "100%",
-            width: "100%",
-            borderRadius: "50%",
-            alignItems: "center",
-          }}
+          // style={{
+          //   border: "4px solid white",
+          //   display: "flex",
+          //   height: "100%",
+          //   width: "100%",
+          //   borderRadius: "50%",
+          //   alignItems: "center",
+          // }}
         />
       
     </div>
