@@ -362,7 +362,7 @@ const BackgroundAnimation = () => (
     <div
       style={{
         display: "fles",
-        flexDirection: "column",
+        flexDirection: "row",
         justifyContent: "center",
         alignItems: "center",
         width: 250,
@@ -372,18 +372,20 @@ const BackgroundAnimation = () => (
         left: 150,
       }}
     >
-      <img
-        src="./images/myPic.jpeg"
-        alt="Akshaykumar Profile Pic"
-        style={{
-          border: "4px solid white",
-          display: "flex",
-          height: "100%",
-          width: "100%",
-          borderRadius: "50%",
-          alignItems: "center"
-        }}
-      />
+      
+        <img
+          src="./images/myPic.jpeg"
+          alt="Akshaykumar Profile Pic"
+          style={{
+            border: "4px solid white",
+            display: "flex",
+            height: "100%",
+            width: "100%",
+            borderRadius: "50%",
+            alignItems: "center",
+          }}
+        />
+      
     </div>
   </div>
 );
