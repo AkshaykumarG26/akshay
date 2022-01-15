@@ -3,7 +3,7 @@ import React from "react";
 import styled from 'styled-components';
 
 const Img = styled.img`
-border: 4px solid white;
+border: 4px dotted white;
 display: flex;
 align-items: center;
 height: 100%;
@@ -13,7 +13,7 @@ border-radius: 50%;
   width: 75%;
   height: 75%;
   margin-bottom:100px;
-  margin-right:140px;
+  margin-right:180px;
 }
 `
 
