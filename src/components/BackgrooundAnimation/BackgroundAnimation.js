@@ -368,7 +368,7 @@ const BackgroundAnimation = () => (
         width: 250,
         height: 250,
         position: "absolute",
-        top: 80,
+        top: 100,
         left: 150,
       }}
     >
