@@ -3,13 +3,14 @@ import React from "react";
 import styled from 'styled-components';
 
 const Img = styled.img`
-border: 4px dotted white;
+border: 1px solid white;
 display: flex;
 align-items: center;
 height: 100%;
 width: 100%;
 border-radius: 50%;
 @media(max-width:374px){
+  border: none;
   width: 75%;
   height: 75%;
   margin-bottom:100px;
