@@ -361,7 +361,7 @@ const BackgroundAnimation = () => (
     </svg>
     <div
       style={{
-        display: "fles",
+        display: "flex",
         flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
