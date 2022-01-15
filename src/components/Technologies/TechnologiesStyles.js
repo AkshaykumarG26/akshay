@@ -194,5 +194,6 @@ export const SkillsBox = styled.div`
     width: 80px;
   height: 80px;
   font-size: 8px;
+  margin-left: auto;
   }
 `;
