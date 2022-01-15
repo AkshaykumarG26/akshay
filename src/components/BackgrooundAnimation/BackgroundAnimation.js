@@ -14,7 +14,7 @@ border-radius: 50%;
   width: 75%;
   height: 75%;
   margin-bottom:100px;
-  margin-right:180px;
+  margin-right:200px;
 }
 `
 
