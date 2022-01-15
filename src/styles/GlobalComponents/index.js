@@ -14,14 +14,14 @@ export const Section = styled.section`
   @media (max-width: 400px) {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
     position: initial;  
   }
 
   @media (max-width: 750px) {
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    flex-direction: column;
+    /* align-items: center; */
     position: initial;  
   }
 
