@@ -6,12 +6,12 @@ const Img = styled.img`
 border: 4px solid white;
 display: flex;
 align-items: center;
-height: 100%;
-width: 100%;
+height: 80%;
+width: 80.%;
 border-radius: 50%;
 @media(max-width:374px){
-  margin-bottom:60px;
-  margin-right:100px;
+  margin-bottom:80px;
+  margin-right:120px;
 }
 `
 
