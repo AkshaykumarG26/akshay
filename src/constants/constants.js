@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Mednear.com",
+    title: "Youtube.com",
     description:
       "In this project I have done basic UI of youtube webpage using HTML, CSS and Javascript. Where user can see the trending videos on webpage and even user can search for videos he wants and watch the videos",
     image: "/images/1.png",
