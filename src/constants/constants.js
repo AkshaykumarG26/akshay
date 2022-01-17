@@ -2,11 +2,11 @@ export const projects = [
   {
     title: "Mednear.com",
     description:
-      "In this project we have done basic UI of mednear webpage using HTML, CSS and Javascript. User can add the products in the cart and can order the products.",
+      "In this project I have done basic UI of youtube webpage using HTML, CSS and Javascript. Where user can see the trending videos on webpage and even user can search for videos he wants and watch the videos",
     image: "/images/1.png",
     tags: ["HTML", "CSS", "Javascript"],
-    source: "https://github.com/AkshaykumarG26/Unit_2_Construct_Week",
-    visit: "#",
+    source: "https://github.com/AkshaykumarG26/youtubeClone",
+    visit: "https://youtube-clone-akshay.vercel.app/",
     id: 0,
   },
   {
