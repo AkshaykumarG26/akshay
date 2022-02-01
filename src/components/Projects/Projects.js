@@ -23,7 +23,7 @@ const Projects = () => (
             <TitleContent>Tech Stack</TitleContent>
             <TagList>
               {project.tags.map((tag, i) => {
-                return <div style={{ textAlign: 'center' }}>
+                return <div style={{ textAlign: 'left' }}>
                   <TechIcons key={i} tag={tag} />
                   <div>{tag}</div>
                 </div>
