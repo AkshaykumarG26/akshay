@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/1.png",
     tags: ["ReaactJS", "ChakraUI", "Bootstrap"],
     source: "https://github.com/nileshagrawal98/Practo_Clone",
-    visit: "#",
+    visit: "https://practo-clone.vercel.app/",
     id: 0,
   },
   {
