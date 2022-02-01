@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "Youtube.com",
+    title: "Practo.com",
     description:
-      "In this project I have done basic UI of youtube webpage using HTML, CSS and Javascript. Where user can see the trending videos on webpage and even user can search for videos he wants and watch the videos",
+      "In this project we have tried to enhance the cloning of “Practo” website using frontend with React Js, Chakra UI, Bootstrap, redux and backend with validations, authentications and more.",
     image: "/images/1.png",
-    tags: ["HTML", "CSS", "Javascript"],
-    source: "https://github.com/AkshaykumarG26/youtubeClone",
-    visit: "https://youtube-clone-akshay.vercel.app/",
+    tags: ["ReaactJS", "ChakraUI", "Bootstrap"],
+    source: "https://github.com/nileshagrawal98/Practo_Clone",
+    visit: "#",
     id: 0,
   },
   {
