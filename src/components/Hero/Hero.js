@@ -13,14 +13,23 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        <h1 style={{ color: 'magenta' }}>{`Hi, I am Akshaykumar`}</h1>
+        <h1 style={{ color: "magenta" }}>{`Hi, I am Akshaykumar`}</h1>
       </SectionText>
       <WritingEffect />
 
-      <Button onClick={() => window.open("https://drive.google.com/file/d/1HNLwzmzSVCGlKc1yBppxG1QFkfNNcp2c/view?usp=view", '_blank')}>View My Resume</Button>
+      <Button
+        onClick={() =>
+          window.open(
+            "https://drive.google.com/file/d/1FD9edECaRH8iHMrIoGTKx8ETcK0OqhEC/view?usp=view",
+            "_blank"
+          )
+        }
+      >
+        View My Resume
+      </Button>
     </LeftSection>
-
   </Section>
 );
 
 export default Hero;
+
