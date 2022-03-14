@@ -20,7 +20,7 @@ const Hero = (props) => (
       <Button
         onClick={() =>
           window.open(
-            "https://drive.google.com/file/d/1FD9edECaRH8iHMrIoGTKx8ETcK0OqhEC/view?usp=view",
+            "https://drive.google.com/file/d/1fzTQbu-WPL3FvsH7mj3e9fSDKWSJlkiq/view?usp=view",
             "_blank"
           )
         }
